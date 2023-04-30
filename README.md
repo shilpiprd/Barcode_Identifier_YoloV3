@@ -47,7 +47,7 @@ data
 ```
 
 We get good results: 
-![image](https://github.com/shilpiprd/Barcode_Identifier_YoloV3/output/img1_recognized_3597.png)
+![image](https://github.com/shilpiprd/Barcode_Identifier_YoloV3/blob/master/output/img1_recognized_3597.png)
 
 
 
