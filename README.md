@@ -48,7 +48,8 @@ data
 ```
 
 We get good results: 
-<img src="https://github.com/shilpiprd/Barcode_Identifier_YoloV3/blob/master/output/img1_recognized_3597.png" alt="Image" width="400" height="300">
+<img src="https://raw.githubusercontent.com/shilpiprd/Barcode_Identifier_YoloV3/master/output/img1_recognized_3597.png" alt="Image" width="400" height="300">
+
 
 
 
