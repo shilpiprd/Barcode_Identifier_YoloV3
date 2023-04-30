@@ -3,6 +3,7 @@
 _______
 YoloV3 Simplified for training on Colab with custom dataset. 
 The aim of this repository is to be able to identify barcodes from images using YoloV3 model.
+The YOLOv3 model for barcode detection  enables automated identification of barcodes in real-time.By using deep learning algorithms, the model can detect barcodes from various angles and orientations, making the process faster and more accurate than traditional methods. This can lead to significant time and cost savings
 
 I have used 826 images as training_set out of which some contain the barcode and some dont. 
 The corresponding label file (.txt file) of images which don't contain the object is empty. 
@@ -47,7 +48,8 @@ data
 ```
 
 We get good results: 
-![image](https://github.com/shilpiprd/Barcode_Identifier_YoloV3/blob/master/output/img1_recognized_3597.png)
+<img src="https://github.com/shilpiprd/Barcode_Identifier_YoloV3/blob/master/output/img1_recognized_3597.png" alt="Image" width="400" height="300">
+
 
 
 
